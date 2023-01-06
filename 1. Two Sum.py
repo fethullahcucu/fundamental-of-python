@@ -10,6 +10,6 @@ for i in numbers:
             print ("index number is " + str(numbers.index(x))+ " and " +str(numbers.index(i)))
             break
         else:
-            print ("continue")
+            print ("continue and I am perfect")
     
         
